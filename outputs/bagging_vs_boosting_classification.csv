@@ -1,0 +1,5 @@
+Model,Accuracy,F1,ROC-AUC,Train ROC-AUC,Fit time (s),Overfit gap (train−test AUC)
+Decision Tree (single),0.6788,0.5486,0.7116,0.8836,0.0398,0.1719
+Bagging,0.725,0.6039,0.7775,0.938,3.097,0.1604
+AdaBoost,0.7327,0.5983,0.7894,0.8004,1.3122,0.011
+XGBoost,0.7308,0.6185,0.7798,0.8588,0.2035,0.0791

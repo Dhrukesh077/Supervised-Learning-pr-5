@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R²,Train RMSE,Fit time (s),Overfit gap (test−train RMSE)
+Decision Tree (single),9.239,11.5655,0.2652,8.4177,0.0373,3.1477
+Bagging,8.2288,10.2412,0.4239,7.6958,3.0403,2.5455
+AdaBoost,8.6062,10.5721,0.386,10.0068,1.8162,0.5653
+XGBoost,8.1554,10.1702,0.4318,8.5556,0.1394,1.6147

@@ -1,0 +1,3 @@
+Task,Selected model (best CV),CV score,Test score
+Classification (completion_status),XGBoost (tuned),ROC-AUC 0.7804 ± 0.0090,ROC-AUC 0.7883 | F1 0.6288 | Acc 0.7423
+Regression (final_score),XGBoost (tuned),RMSE 9.626 ± 0.118,RMSE 10.123 | MAE 8.131 | R² 0.4371
