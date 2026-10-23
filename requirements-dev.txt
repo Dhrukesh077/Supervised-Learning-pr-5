@@ -1,0 +1,7 @@
+# Only needed to open/re-run the notebook and to regenerate the PDF documents
+-r requirements.txt
+jupyterlab>=4.0
+ipykernel>=6.29
+nbconvert>=7.0
+reportlab>=4.0
+pillow>=10.0
